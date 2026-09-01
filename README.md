@@ -42,7 +42,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**wallet weave clone**](https://github.com/Ayomide16102009/my-figma-app) | Next.js project | `TypeScript` |
+| [**wallet weave clone**](https://wallet-weave.netlify.app | Next.js project | `TypeScript` |
 
 ---
 
