@@ -1,284 +1,157 @@
-# Hi there 👋 I'm Ayomide
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+%7C+Learning+%7C+Leveling+Up;Frontend+Developer;Always+shipping+new+projects" alt="Typing SVG" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:512BD4,100:7C3AED&height=240&section=header&text=Habeebullah%20Ayomide&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%" />
 
-### 👨‍💻 About Me
-
-- 🚀 Building, learning, and leveling up every day
-- 💻 Currently exploring **TypeScript**, **React** & **Next.js**
-- 🌱 Working on cool web projects and improving my frontend skills
-- ⚡ Fun fact: I love turning ideas into real working projects
-- 📫 Always open to connect and collaborate!
-- Chasing purpose, not perfection.  One step forward, always. ✨
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**wallet weave clone**](https://wallet-weave.netlify.app | Next.js project | `TypeScript` |
-
----
-
-### 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayomide16102009)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HAyomide27423)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayomi.de8200/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeebullah-owoyemi001)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayomide16102009&style=flat-square&color=58A6FF" alt="Profile views" />
-  <br><br>
-  <i>Thanks for visiting! Let's build something awesome together 🚀</i>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div align="center">
-
-<h1>👋 <span style="color:#58A6FF;">Ayomide</span></h1>
-
-<h3>Frontend Developer</h3>
+# Habeebullah Ayomide
+### Frontend Developer | React | Next.js | Flutter
 
 <p>
-  <strong>I design and build clean, high-performing interfaces for web and product dashboards.</strong>
+  I design and build clean, high-performing interfaces for web and product dashboards — from marketing sites to full admin experiences.
 </p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Interfaces+that+feel+production-ready." alt="Ayomide" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Habeebullah%20Owoyemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeebullah-owoyemi001)
+[![Email](https://img.shields.io/badge/Email-habeebullahayomide20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habeebullahayomide20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AyomideTech-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayomide16102009)
 
 </div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## About Me
 
-<p align="center">
-  I'm <strong>Ayomide</strong>, a frontend developer focused on turning product ideas into polished, usable interfaces.
-</p>
+I'm a frontend developer focused on turning product ideas into polished, usable interfaces.
 
-<p align="center">
-  <strong>🌐 Marketing Websites</strong> &nbsp; • &nbsp;
-  <strong>🔐 Authentication Flows</strong> &nbsp; • &nbsp;
-  <strong>📊 Admin Dashboards</strong> &nbsp; • &nbsp;
-  <strong>📱 Responsive Interfaces</strong>
-</p>
+My strongest interests are:
 
-<blockquote align="center">
-  <strong>Build interfaces that don't just work — they feel complete and production-ready.</strong>
-</blockquote>
+responsive web apps with React, Next.js, and TypeScript
+product UI: dashboards, sidebars, KPI cards, tables, filters, and auth flows
+mobile-ready interfaces with Flutter
+translating business requirements into clean frontend architecture that plugs into an MVC or API-backed app
 
-<p align="center">
-  I care about <strong>clarity, consistency, responsiveness, performance</strong>, and the small details that make a product stand out.
-</p>
+I especially enjoy taking a brand and making it feel complete — layout, spacing, components, and the small details that make a product look ready for a client.
 
 ---
 
-<h2 align="center">🧠 What I Do</h2>
+## Recruiter Snapshot
 
-<h3>🎨 Frontend Development</h3>
+<div align="center">
 
-<ul>
-  <li>Responsive websites</li>
-  <li>React applications</li>
-  <li>Next.js applications</li>
-  <li>TypeScript development</li>
-  <li>Reusable UI components</li>
-  <li>Modern CSS layouts</li>
-</ul>
+| Area | Value |
+|---|---|
+| Frontend Engineering | React, Next.js, TypeScript, component-driven UI |
+| Product UI Delivery | Dashboards, auth flows, admin panels, landing pages |
+| Mobile Development | Cross-platform interfaces with Flutter |
+| Engineering Style | Design-system driven, integration-ready, desktop and mobile polish |
 
-<h3>📊 Product Interfaces</h3>
-
-<ul>
-  <li>Admin dashboards</li>
-  <li>Authentication systems</li>
-  <li>POS interfaces</li>
-  <li>Tables & filters</li>
-  <li>KPI cards</li>
-  <li>Search & navigation systems</li>
-</ul>
-
-<h3>📱 Cross Platform</h3>
-
-<ul>
-  <li>Mobile-ready interfaces</li>
-  <li>Flutter development</li>
-  <li>Responsive design</li>
-  <li>Component-based architecture</li>
-</ul>
-
-<h3>🔌 Integration</h3>
-
-<ul>
-  <li>REST APIs</li>
-  <li>MVC architecture</li>
-  <li>Backend-ready frontend</li>
-  <li>Git & GitHub workflows</li>
-  <li>Deployment</li>
-</ul>
+</div>
 
 ---
 
-<h2 align="center">💼 Selected Work</h2>
+## Core Stack
 
-<h3>🧺 FreshFold Laundry</h3>
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p>
-  A full frontend system for a laundry and dry-cleaning business. Public site, customer portal, admin dashboard, and cashier/POS screens. Built to drop into an MVC codebase.
-</p>
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-<p>
-  <code>Public Website</code>
-  <code>Customer Portal</code>
-  <code>Admin Dashboard</code>
-  <code>Cashier/POS</code>
-  <code>Authentication</code>
-</p>
-
-<h3>💳 WalletWeave Dashboard</h3>
-
-<p>
-  An admin dashboard UI for a digital wallet product. App shell, search header, analytics cards, charts, and a structured sidebar navigation.
-</p>
-
-<p>
-  <code>Analytics</code>
-  <code>Charts</code>
-  <code>Search</code>
-  <code>Sidebar Navigation</code>
-  <code>Dashboard Cards</code>
-</p>
-
-<h3>🛍️ Product UI</h3>
-
-<p>
-  Landing pages, login, signup, password recovery, empty states, and reusable components built to a professional standard.
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<h2 align="center">🎯 Approach</h2>
+## Featured Projects
 
-<table align="center">
-<tr>
-<td align="center">🧭<br/><strong>User Flow</strong></td>
-<td align="center">🎨<br/><strong>Design System</strong></td>
-<td align="center">⚙️<br/><strong>Real Integration</strong></td>
-<td align="center">📱<br/><strong>Responsive</strong></td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🎯 Goals</h2>
-
-<ul>
-  <li>Deliver frontend work that holds up in client reviews</li>
-  <li>Build products with a clear public side and a strong internal dashboard</li>
-  <li>Keep growing as a frontend developer who can own UI from first layout to final handoff</li>
-  <li>Collaborate with designers, backend developers, and product teams</li>
-</ul>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3>Languages</h3>
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h3>Frameworks & Tools</h3>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### FreshFold Laundry
+[![Repo](https://img.shields.io/badge/Repository-Open-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayomide16102009/laundary_System)
+[![Stack](https://img.shields.io/badge/Stack-Frontend%20System%20%7C%20MVC--ready-2563EB?style=flat-square)](https://github.com/Ayomide16102009/laundary_System)
+A full frontend system for a laundry and dry-cleaning business.
+**Highlights**
+- public marketing site and customer portal
+- admin dashboard for business operations
+- cashier / POS screens
+- built to drop straight into an MVC codebase
+### WalletWeave Dashboard
+[![Repo](https://img.shields.io/badge/Repository-Open-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayomide16102009/my-figma-app)
+[![Stack](https://img.shields.io/badge/Stack-Admin%20Dashboard%20UI-58A6FF?style=flat-square)](https://wallet-weave.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-16A34A?style=flat-square&logo=netlify&logoColor=white)](https://wallet-weave.netlify.app/)
+An admin dashboard UI for a digital wallet product.
+**Highlights**
+- app shell with search header and sidebar navigation
+- analytics cards and charts
+- structured, integration-ready layout
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+## Professional Experience
 
-<p align="center">
+### WhitteIntel Limited
+**Frontend Developer**  
+`2025 - Present`
+- Building responsive product interfaces with `React` and `Next.js`
+- Developing dashboard experiences and auth flows for client-facing products
+- Working with `Flutter` for cross-platform mobile interfaces
+---
 
-<a href="https://github.com/Ayomide16102009">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## What I Bring
 
-<a href="https://x.com/HAyomide27423">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+- frontend-focused engineering mindset
+- strong interest in design systems and component architecture
+- practical experience building dashboards, auth flows, and marketing sites
+- ability to ship pages that are ready for real integration, not just demo screens
+- comfort working across web and mobile (`React` / `Next.js` and `Flutter`)
 
-<a href="https://www.instagram.com/ayomi.de8200/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/habeebullah-owoyemi001">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## GitHub Activity
 
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayomide16102009&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide16102009&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayomide16102009&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ayomide16102009)
+
+</div>
+
+---
+
+## Current Focus
+
+- deepening frontend architecture and design-system skills
+- building production-style dashboard and product UI
+- growing into `Flutter` for mobile-ready delivery
+- collaborating with designers, backend developers, and product teams
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Habeebullah%20Owoyemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeebullah-owoyemi001)
+[![Email](https://img.shields.io/badge/Email-habeebullahayomide20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habeebullahayomide20@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ayomide16102009&style=flat-square&color=58A6FF" alt="Profile views" />
+**Frontend Developer | React & Next.js | Flutter | Building interfaces that feel production-ready**
 
-<br/><br/>
-
-<i>Thanks for visiting! Let's build something awesome together 🚀</i>
-
-</div> --!>
-
+</div>
