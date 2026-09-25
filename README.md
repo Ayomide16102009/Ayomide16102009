@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:512BD4,100:7C3AED&height=240&section=header&text=Habeebullah%20Ayomide&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:512BD4,100:7C3AED&height=240&section=header&text=Ayomide@Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%" />
 
-# Habeebullah Ayomide
+# Ayomide@Dev
 ### Frontend Developer | React | Next.js | Flutter
 
 <p>
