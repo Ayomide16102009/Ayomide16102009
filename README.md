@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:512BD4,100:7C3AED&height=240&section=header&text=Ayomide@Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:1D4ED8,70:512BD4,100:7C3AED&height=240&section=header&text=DevAyomide&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend-Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%" />
 
-# Ayomide@Dev
+# Dev Ayomide
 ### Frontend Developer | React | Next.js | Flutter
 
 <p>
@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Habeebullah%20Owoyemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeebullah-owoyemi001)
 [![Email](https://img.shields.io/badge/Email-habeebullahayomide20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habeebullahayomide20@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ayomide@Dev-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayomide16102009)
+[![GitHub](https://img.shields.io/badge/GitHub-DevAyomide-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayomide16102009)
 
 </div>
 
