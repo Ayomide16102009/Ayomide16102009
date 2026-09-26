@@ -113,21 +113,11 @@ An admin dashboard UI for a digital wallet product.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayomide16102009&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide16102009&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayomide16102009&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ayomide16102009)
-
-</div>
-
+![](https://github-readme-stats.shion.dev/api?username=Ayomide16102009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ayomide16102009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayomide16102009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## Current Focus
@@ -154,4 +144,43 @@ An admin dashboard UI for a digital wallet product.
 
 **Frontend Developer | React & Next.js | Flutter | Building interfaces that feel production-ready**
 
-</div>
+</div> 
+
+
+
+
+
+
+
+
+
+
+
+<!--
+# 💫 About Me:
+I'm a frontend developer focused on turning product ideas into polished, usable interfaces.<br><br>My strongest interests are:<br><br>responsive web apps with React, Next.js, and TypeScript product UI: dashboards, sidebars, KPI cards, tables, filters, and auth flows mobile-ready interfaces with Flutter translating business requirements into clean frontend architecture that plugs into an MVC or API-backed app<br><br>I especially enjoy taking a brand and making it feel complete — layout, spacing, components, and the small details that make a product look ready for a client.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/habeebullah-owoyemi001) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Habeebullah Ayomide) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habeebullahayomide20@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ayomide16102009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ayomide16102009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayomide16102009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayomide16102009&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ayomide16102009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Ayomide16102009&icon=0&color=0)](https://visitcount.itsvg.in) --!>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
